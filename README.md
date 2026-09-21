@@ -11,6 +11,7 @@ pip install deep-translator
 Step 2: The Python Script
 
 Save the following code as translate_wp.py in the same folder as your XML file.
+
 python translate_wp.py
 
 Watch the console. It will print out what it is translating. Because of the time.sleep() added to prevent Google from blocking your IP, it will take some time for large files.
