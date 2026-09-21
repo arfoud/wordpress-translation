@@ -5,7 +5,7 @@ from deep_translator import GoogleTranslator
 
 # --- CONFIGURATION ---
 INPUT_FILE = 'post.xml'      # Replace with your actual XML filename
-OUTPUT_FILE = 'post-fr.xml' # The new translated file
+OUTPUT_FILE = 'post-es.xml' # The new translated file
 SOURCE_LANG = 'en'                  # English
 TARGET_LANG = 'es'                  # Spanish
 SLEEP_TIME = 0.5                    # Seconds to wait between chunks to avoid Google rate limits
